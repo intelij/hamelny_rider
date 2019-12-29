@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1074887855426",
+    "firebase_url": "https://hamelly-a6948.firebaseio.com",
+    "project_id": "hamelly-a6948",
+    "storage_bucket": "hamelly-a6948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074887855426:android:3f694b702ca75d6057ccdb",
+        "android_client_info": {
+          "package_name": "com.trioangle.gofer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074887855426-8v89mg6c0kldrbe2c611gedict33qrgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trioangle.gofer",
+            "certificate_hash": "5d6d546fe426a31a55a2bf2f1b6c6802757425e8"
+          }
+        },
+        {
+          "client_id": "1074887855426-i0r184b3jomff9iev1bnljnt72lis1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfU-c9bl3HhBzLUomItPz4szOeiKzJSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074887855426-i0r184b3jomff9iev1bnljnt72lis1fm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074887855426-qd7vr9hhae52d8jvcrg8oj8un6mnbkaf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Fudex.HamellyRider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074887855426:android:6cc7117c052e829357ccdb",
+        "android_client_info": {
+          "package_name": "com.trioangle.goferdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074887855426-d1eua2rr1ca4crg29oe4mn1bp8v0aj8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trioangle.goferdriver",
+            "certificate_hash": "5d6d546fe426a31a55a2bf2f1b6c6802757425e8"
+          }
+        },
+        {
+          "client_id": "1074887855426-i0r184b3jomff9iev1bnljnt72lis1fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfU-c9bl3HhBzLUomItPz4szOeiKzJSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074887855426-i0r184b3jomff9iev1bnljnt72lis1fm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074887855426-qd7vr9hhae52d8jvcrg8oj8un6mnbkaf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Fudex.HamellyRider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
